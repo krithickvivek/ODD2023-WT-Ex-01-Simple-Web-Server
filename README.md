@@ -24,8 +24,10 @@ content= """
 <head>
 </head>
 <body>
-<h1> Krithick Vivekananda </h1>
-<h1> Artificial Intelligence and Machine Learning </h1>
+<h1>Top Three Web Application Develpoment Frameworks </h1>
+<h3>1.Django</h3>
+<h3>2.MEAN Stack</h3>
+<h3>3.React</h3>
 </body>
 </html>
 """
@@ -59,8 +61,10 @@ content= """
 <head>
 </head>
 <body>
-<h1> Krithick Vivekananda </h1>
-<h1> Artificial Intelligence and Machine Learning </h1>
+<h1>Top Five Web Application Develpoment Frameworks </h1>
+<h3>1.Django</h3>
+<h3>2.MEAN Stack</h3>
+<h3>3.React</h3>
 </body>
 </html>
 """
@@ -80,7 +84,7 @@ httpd.serve_forever()
 
 
 ## OUTPUT:
-![out](webserver.jpg)
+![out](/webserver.jpg)
 
 ## RESULT:
 The program for implementing simple webserver is executed successfully.
